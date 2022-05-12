@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ColorPalette</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="title_text">Title Text</string>
+	<string name="next_swatch">Next Swatch</string>
+	<string name="body_text">
+		The Palette library was very useful some years ago when I built one of my first apps. It is valuable if you start out designing a new theme for an app if you are inclined to base a brand and a colour theme from an attractive image. You may even be considering offering several colour themes, supporting both Light and Dark themes for the app.
+		\n\nThe library allows you to extract colours from an image. It does this by generating 6 different Palette.Swatches. The swatches are VibrantSwatch, DarkVibrantSwatch, LightVibrantSwatch, MutedSwatch, DarkMutedSwatch, LightMutedSwatch. To be continued in Readme of the project...
+	</string>
+	<string name="swatch_image_content_description">Swatch from this Image</string>
+
+	<string name="backgroundcolor_text">BackgroundColor: #ff881820</string>
+	<string name="backgroundcolor_alpha_text">Alpha value: 100%</string>
+	<string name="title_text_color">TitleTextColor: #74ffffff</string>
+	<string name="title_text_alpha">Alpha value: 34%</string>
+	<string name="body_text_color">BodyTextColor: #9ffffff</string>
+	<string name="body_text_alpha">Alpha value: 47%</string>
+	
+</resources>
